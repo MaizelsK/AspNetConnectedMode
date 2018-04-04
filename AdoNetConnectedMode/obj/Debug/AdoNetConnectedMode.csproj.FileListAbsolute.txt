@@ -1,0 +1,7 @@
+D:\Visual projects\AdoNetConnectedMode\AdoNetConnectedMode\bin\Debug\AdoNetConnectedMode.exe.config
+D:\Visual projects\AdoNetConnectedMode\AdoNetConnectedMode\bin\Debug\AdoNetConnectedMode.exe
+D:\Visual projects\AdoNetConnectedMode\AdoNetConnectedMode\bin\Debug\AdoNetConnectedMode.pdb
+D:\Visual projects\AdoNetConnectedMode\AdoNetConnectedMode\obj\Debug\AdoNetConnectedMode.csprojResolveAssemblyReference.cache
+D:\Visual projects\AdoNetConnectedMode\AdoNetConnectedMode\obj\Debug\AdoNetConnectedMode.csproj.CoreCompileInputs.cache
+D:\Visual projects\AdoNetConnectedMode\AdoNetConnectedMode\obj\Debug\AdoNetConnectedMode.exe
+D:\Visual projects\AdoNetConnectedMode\AdoNetConnectedMode\obj\Debug\AdoNetConnectedMode.pdb
